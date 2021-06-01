@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileswarkhilar1&label=Profile%20views&color=0e75b6&style=flat" alt="dileswarkhilar1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dileswarkhilar1" alt="dileswarkhilar1" /></a> </p>
-
 - 🔭 I’m currently working with **Python and Try to Developing Some Awesome real estate Project.**
 
 - 👨🏽‍💻 I’m currently learning,Working **and growing my skillset in AI,ML,Deep Learning,Cyber Security,Competitive Coding, Data Structures and Algorithms.**
