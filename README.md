@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dileswar Khilar</h1>
-<h3 align="center">Computer Science,Cyber Security and Nano Technology Enthusiast | Technical Member at IIC Vssut.</h3>
+<h3 align="center">Computer Science and Technology Enthusiast | Technical Member at IIC Vssut.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileswarkhilar1&label=Profile%20views&color=0e75b6&style=flat" alt="dileswarkhilar1" /> </p>
 
-- 😊 I’m currently working with **Python and Try to Developing Some Awesome real estate Project.**
+- 👨🏽‍💻 I’m currently learning **and growing my skillset in Competitive Programming, Data Structures and Algorithms.**
 
-- 👨🏽‍💻 I’m currently learning **and growing my skillset in AI,ML,Deep Learning,Cyber Security,Competitive Coding, Data Structures and Algorithms.**
-
-- 🤝 I’m looking to collaborate on **Cyber Security.**
-
-- 💬 Ask me about **Software Developemt , Cyber Security and Tech Aspect.**
+- 🤝 I’m looking to collaborate on **opensource project**
 
 - 📫 How to reach me **dileswarkhilar0@gmail.com**
 
-- ⚡ Fun fact **I'am a Stupid.**
+- ⚡ Fun fact **when i code , iam still confusing in lessthan and graterthan symbol.**
 
 
 <h3 align="left">Languages and Tools:</h3>
