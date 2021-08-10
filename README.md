@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileswar Khilar</h1>
-<h3 align="center">Computer Science and Technology Enthusiast | Technical Member at IIC Vssut.</h3>
+<h3 align="center">Computer Science and Technology Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileswarkhilar1&label=Profile%20views&color=0e75b6&style=flat" alt="dileswarkhilar1" /> </p>
 
